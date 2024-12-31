@@ -56,3 +56,34 @@ body{
 .nav-img{
   width: 100px;
 }
+
+h3.heading{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.9rem;
+  margin: 1.9rem;
+}
+
+.card{
+  margin: 2rem;
+}
+
+.footer{
+  background-color: #505962;
+}
+
+.footer .footer-info img{
+  width: 100px;
+}
+.card .btn-one{
+  border-width: 2rem;
+  border: 2px solid rgb(51, 9, 189);
+  margin: .5rem;
+  padding: .5rem;
+} 
+.card .btn-two{
+  border-width: 2rem;
+  border: 2px solid rgb(51, 9, 189);
+  margin: 1.5rem;
+  padding: .5rem;
+}
