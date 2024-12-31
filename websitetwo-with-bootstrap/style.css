@@ -1,0 +1,19 @@
+/* .image{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    opacity: 0.2;
+  } */
+  .image-fluid {
+    width: 100%;
+    height: auto;
+    opacity: 0.2;
+    object-fit: cover;
+}
+.card-img-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
