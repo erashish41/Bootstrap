@@ -1,0 +1,26 @@
+.navbar-brand img{
+    width: 100px;
+}
+.navbar{
+    background-color: #505962;
+    text-transform: uppercase;
+    color: #fff;
+}
+.navbar .nav-link{
+    text-decoration: none;
+    color: white;
+}
+.navbar .nav-link:hover{
+    color: blue;
+}
+.navbar-nav{
+    color: #fff;
+}
+.carousel-info .carousel-inner img{
+    width: 1500px;
+    height: 600px;
+    /* object-fit: cover; */
+}
+.carousel-inner .carousel-caption{
+    color: #fff;
+}
